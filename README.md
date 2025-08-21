@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # نظام إدارة مدرسة صُنّاع الأوائل الثانوية
 # Thanawiya School Management System - "Makers of Excellence"
 
@@ -220,3 +221,7 @@ For technical support or questions:
 
 **© 2024 مدرسة صُنّاع الأوائل الثانوية - Makers of Excellence Secondary School**  
 **جميع الحقوق محفوظة - All Rights Reserved**
+=======
+# thanawiya-alawael
+ل - Thanawiya School Management System
+>>>>>>> 0e8a5e0b93bac74394ffde63aad207114cebdac6
